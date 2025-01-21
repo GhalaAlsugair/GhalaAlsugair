@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![image alt](IMG_3852.jpeg)
 <!--
 **GhalaAlsugair/GhalaAlsugair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
